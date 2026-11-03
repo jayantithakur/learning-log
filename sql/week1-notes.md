@@ -44,7 +44,7 @@ Day 4: BETWEEN + IN + LIKE, ILIKE
 
     Like/ilike: pattern matching.
     - Like: operators such as % or _ (case sensitive)
-    - Ilike: case insensitive, oracle sql
+    - Ilike: case insensitive, only available in oracle sql
 
 Day 5: JOINS + UNION
 Joins allows us to combine information from multiple tables.
